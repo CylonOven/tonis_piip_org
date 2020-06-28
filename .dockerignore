@@ -1,0 +1,16 @@
+.idea
+
+tonis_piip_org/node_modules/
+venv/
+
+.data*/
+
+**/__pycache__
+*.pyo
+*.pyc
+
+tonis_piip_org/.cache
+tonis_piip_org/.pytest_cache
+tonis_piip_org/.coverage
+tonis_piip_org/coverage
+tonis_piip_org/cover/
